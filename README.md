@@ -35,10 +35,9 @@ An example of attention-based approach is the Bottom-Up-Attention model from Pet
 | ------------- | ------------- | ------------- | ------------- |
 | Faster R-CNN, ResNet-101  | 10.2%  | 15.1% | 7.8% | 27.8% |
 
-|  | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+|  | objects mAP@0.5 | objects weighted mAP@0.5 | attributes mAP@0.5 | attributes weighted mAP@0.5 |
+| --- | --- | --- | --- | --- |
+| Faster R-CNN, ResNet-101 | 10.2% | 15.1% | 7.8% | 27.8% |
 
 ## References
 1) https://tryolabs.com/blog/2018/03/01/introduction-to-visual-question-answering/
