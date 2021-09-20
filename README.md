@@ -38,6 +38,6 @@ An example of attention-based approach is the Bottom-Up-Attention model from Pet
 ## References
 1) Anderson, Peter et al. "Bottom-Up And Top-Down Attention For Image Captioning And Visual Question Answering". Github, 2021, https://github.com/peteanderson80/bottom-up-attention. Accessed 19 Sept 2021.
 2) Couto, Javier. "Introduction To Visual Question Answering | Tryolabs Blog". Tryolabs.Com, 2018, https://tryolabs.com/blog/2018/03/01/introduction-to-visual-question-answering/.
-3) 3) Singh, Gursimran et al. "A Bayesian Approach To Visual Question Answering". Cs.Ubc.Ca, 2018, https://www.cs.ubc.ca/~saeidnp/files/reports/vqa-bayesian.pdf.
-4)  "Vision Impairment And Blindness". Who.Int, 2021, https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment.
+3) Singh, Gursimran et al. "A Bayesian Approach To Visual Question Answering". Cs.Ubc.Ca, 2018, https://www.cs.ubc.ca/~saeidnp/files/reports/vqa-bayesian.pdf.
+4) "Vision Impairment And Blindness". Who.Int, 2021, https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment.
 5) "VQA: Vision And Language". Australian Institute For Machine Learning (AIML) | University Of Adelaide, 2021, https://www.adelaide.edu.au/aiml/our-research/machine-learning/vqa-vision-and-language.
