@@ -13,7 +13,7 @@ To completely solve artificial intelligence, a practical application that is cap
 
 ## Literature Review
 Many literature reviews suggest that VQA is a “multi-discipline AI research problem, involving CV, NLP and Knowledge Representation & Reasoning (KR)” (2). To capture the large range of possibilities within questions and visual environments in real world scenarios, a model must be trained with large dataset of images, questions, and answers. 
-### Available datasets where trained models have used are the following:
+### Available datasets where trained models have used:
 1)	Microsoft Common Objects in Context (COCO), a dataset with 328,000 images and 2.5 million labeled instances (2). 
 2)	Dataset for Question Answering on Real-world images (DAQUAR), a dataset containing 6794 training and 5674 test question-answer pairs that are based on images from the NYU-Depth V2 Dataset (2).
 3)	COCO-QA dataset, a dataset with 123,287 images coming from the COCO dataset with 78,736 training and 38,948 testing question-answer pairs (2).
