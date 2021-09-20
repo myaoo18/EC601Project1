@@ -13,20 +13,19 @@ To completely solve artificial intelligence, a practical application that is cap
 
 ## Literature Review
 Many literature reviews suggest that VQA is a “multi-discipline AI research problem, involving CV, NLP and Knowledge Representation & Reasoning (KR)” (2). To capture the large range of possibilities within questions and visual environments in real world scenarios, a model must be trained with large dataset of images, questions, and answers. 
-### Available datasets where trained models have used:
-1)	Microsoft Common Objects in Context (COCO), a dataset with 328,000 images and 2.5 million labeled instances (2). 
-2)	Dataset for Question Answering on Real-world images (DAQUAR), a dataset containing 6794 training and 5674 test question-answer pairs that are based on images from the NYU-Depth V2 Dataset (2).
-3)	COCO-QA dataset, a dataset with 123,287 images coming from the COCO dataset with 78,736 training and 38,948 testing question-answer pairs (2).
-4)	VQA dataset, a dataset that is larger than the COCO dataset, including 50,000 abstract cartoon images (2).
+### Available datasets where trained models have used (2):
+1)	Microsoft Common Objects in Context (COCO), a dataset with 328,000 images and 2.5 million labeled instances
+2)	Dataset for Question Answering on Real-world images (DAQUAR), a dataset containing 6794 training and 5674 test question-answer pairs that are based on images from the NYU-Depth V2 Dataset
+3)	COCO-QA dataset, a dataset with 123,287 images coming from the COCO dataset with 78,736 training and 38,948 testing question-answer pairs
+4)	VQA dataset, a dataset that is larger than the COCO dataset, including 50,000 abstract cartoon images
 
 ### Current approach outline in VQA (2):
 1)	Extract features from the question
 2)	Extract features from the image
 3)	Combine the features to generate an answer based on previous datasets 
 
-### Different approaches:
+### Different approaches (2):
 1)	Attention-based approach: setting the focus of the algorithm on the most relevant parts of the input question
-  (2)
 2)	Bayesian approach: modeling cooccurrence statistics of both the question and the image features to infer relationships between the input question and image (3).
 
 ## Open-Source Research 
