@@ -3,7 +3,7 @@
 Visual question answering (VQA) is a computer vision application where a system is given an open-ended question about an image, and the system must respond to its most accurate understanding of its vision, language, and commonsense knowledge. 
 
 ## Problem Statement
-With emerging technologies for image recognition, language processing and computers preforming tasks at a complex level, human lives can be better with a system that could properly answer questions when asked. VQA is an application that intakes image as an input and use an algorithm to process and generate a natural language answer as an output (2). It is useful in aiding a visually impaired user to navigate a world that is built for the sighted, educating non-native speaker and children on books or games with touch screen and advancing the development of artificial intelligence. 
+With emerging technologies for image recognition, language processing and computers preforming tasks at a complex level, human lives can be better with a system that could properly answer questions when asked. VQA is an application that intakes image as an input and use an algorithm to process and generate a natural language answer as an output (2). It is useful in areas where aiding a visually impaired user to navigate a world that is built for the sighted, educating non-native speaker and children on books or games with touch screen and advancing the development of artificial intelligence. 
 
 ## Application
 
